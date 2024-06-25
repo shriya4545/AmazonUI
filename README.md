@@ -34,8 +34,12 @@ To run this project locally, follow these steps:
 Contributions are welcome! If you have any suggestions or improvements, please follow these steps:
 
 Fork the repository.
+
 Create a new branch:
+
 Make your changes and commit them
+
 Push to the branch
+
 Open a pull request
 
